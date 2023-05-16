@@ -1,0 +1,8 @@
+C:\Users\aditya\source\repos\aditya\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+C:\Users\aditya\source\repos\aditya\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.SuggestedBindingRedirects.cache
+C:\Users\aditya\source\repos\aditya\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\aditya\source\repos\aditya\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+C:\Users\aditya\source\repos\aditya\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+C:\Users\aditya\source\repos\aditya\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+C:\Users\aditya\source\repos\aditya\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+C:\Users\aditya\source\repos\aditya\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
